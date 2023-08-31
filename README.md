@@ -1,5 +1,5 @@
 # TOKENCREATION
-This is a smart contract which demonstrates how to create our custom fungible tokens using erc20 standards.
+This is a smart contract which demonstrates how to create our own custom fungible tokens using erc20 standards.
 ## Description
 This contract mainly has a constructor and 3 functions..The construcctor accepts three parameters namely the token name,sybmol and the initial supply..the mint function can only be accessed by the contract creator.the mint function can mint certain amount of tokens in a specific address..the transfer functions helps the user to transfer certain amount of token to an specific account address.This burn function allows the user to burn their own tokens.
 
